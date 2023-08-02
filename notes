@@ -1,0 +1,9 @@
+1st - create assets , components, & styles folder.
+
+2nd - Put all the required images in assets folder.
+
+3rd - Install React Router Dom, React Icons, and sass using  npm i react-router-dom react-icons sass
+
+4th - Create App.scss and colors.scss files in styles folder then style it accordingly.
+
+5th - Make Header Component.
